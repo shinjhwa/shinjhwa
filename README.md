@@ -48,8 +48,7 @@
 * TOEIC: 855 | ETS | Dec 2024
 * *Language Level:* Fluent in English
 
-
-## 🛠️ Technical Skills
+### 🛠️ Technical Skills
 
 ##### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -67,3 +66,4 @@
 ![Defense Systems](https://img.shields.io/badge/Defense%20Systems-4A5D4E?style=for-the-badge) ![Military Science](https://img.shields.io/badge/Military%20Science-2E3D30?style=for-the-badge) ![Tactical Network Security](https://img.shields.io/badge/Tactical%20Network%20Security-1A2530?style=for-the-badge&logo=fortinet&logoColor=white)
 
 <br/>
+
