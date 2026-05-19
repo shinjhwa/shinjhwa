@@ -69,5 +69,5 @@
 
 ## 🧠 Problem Solving
 <a href="https://leetcode.com/u/shinjhwa/">
-  <img src="https://leetcode-stats-badge.herokuapp.com/?username=shinjhwa&theme=dark" alt="LeetCode Stats" />
+  <img src="https://github-readme-leetcode.vercel.app/api?username=shinjhwa&theme=dark" alt="LeetCode Stats Card" />
 </a>
