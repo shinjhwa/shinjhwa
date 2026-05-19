@@ -56,11 +56,21 @@
 * *Language Level:* Fluent in English
 
 
-### 🏆 Competitive Programming
+# 🛠️ Technical Skills
 
-#### 💻 LeetCode Stats
-<a href="https://leetcode.com/shinjhwa">
-  <img src="https://leetcode-stats-badge.herokuapp.com/?username=shinjhwa&theme=dark" alt="LeetCode Stats" />
-</a>
+#### 💻 Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+#### 🖥️ CS & Software Engineering
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-333333?style=for-the-badge&logo=linux&logoColor=white) ![Computer Architecture](https://img.shields.io/badge/Computer%20Architecture-4B275F?style=for-the-badge) ![Algorithms](https://img.shields.io/badge/Algorithms-007ACC?style=for-the-badge) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-E11919?style=for-the-badge&logo=hack-the-box&logoColor=white)
+
+#### 📊 Data Science & AI
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-228B22?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Stochastic Processes](https://img.shields.io/badge/Stochastic%20Processes-FF6B6B?style=for-the-badge)
+
+#### ⚙️ Systems & Control
+![Signal Processing](https://img.shields.io/badge/Signal%20Processing-009688?style=for-the-badge) ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=MathWorks&logoColor=white) ![Autonomous Control](https://img.shields.io/badge/Autonomous%20Control-4682B4?style=for-the-badge)
+
+#### 🛡️ Domain Expertise
+![Defense Systems](https://img.shields.io/badge/Defense%20Systems-4A5D4E?style=for-the-badge) ![Military Science](https://img.shields.io/badge/Military%20Science-2E3D30?style=for-the-badge) ![Tactical Network Security](https://img.shields.io/badge/Tactical%20Network%20Security-1A2530?style=for-the-badge&logo=fortinet&logoColor=white)
 
 <br/>
