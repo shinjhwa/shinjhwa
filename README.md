@@ -54,3 +54,13 @@
 * OPIc: Advanced Low (IH) | ACTFL | Jun 2025
 * TOEIC: 855 | ETS | Dec 2024
 * *Language Level:* Fluent in English
+
+
+### 🏆 Competitive Programming
+
+#### 💻 LeetCode Stats
+<a href="https://leetcode.com/shinjhwa">
+  <img src="https://leetcode-stats-badge.herokuapp.com/?username=shinjhwa&theme=dark" alt="LeetCode Stats" />
+</a>
+
+<br/>
