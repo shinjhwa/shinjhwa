@@ -68,6 +68,4 @@
 <br/>
 
 ## 🧠 Problem Solving
-<a href="https://leetcode.com/u/shinjhwa/">
-  ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
-</a>
+* **LeetCode:** [shinjhwa](https://leetcode.com/u/shinjhwa/)
