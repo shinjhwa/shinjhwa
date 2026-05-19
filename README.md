@@ -69,5 +69,5 @@
 
 ## 🧠 Problem Solving
 <a href="https://leetcode.com/u/shinjhwa/">
-  <img src="https://github-readme-leetcode.vercel.app/api?username=shinjhwa&theme=dark" alt="LeetCode Stats Card" />
+  ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 </a>
