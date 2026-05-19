@@ -67,3 +67,7 @@
 
 <br/>
 
+## 🧠 Problem Solving
+<a href="https://leetcode.com/u/shinjhwa/">
+  <img src="https://leetcode-stats-badge.herokuapp.com/?username=shinjhwa&theme=dark" alt="LeetCode Stats" />
+</a>
