@@ -3,7 +3,7 @@
 * I am an **ICT Convergence Engineer** with a solid technical foundation across overall ICT and software engineering.
 * Possess comprehensive domain expertise spanning **Artificial Intelligence, Cybersecurity, and Defense Weapon Systems & Military Domain Knowledge**.
 * Currently serving in the **Republic of Korea Air Force (ROKAF)** at the 3rd Air and Missile Defense Brigade.
-* Graduated from the Department of **Military Digital Convergence at Ajou University** (An elite IT contract department with the ROKAF).
+* Graduated from the Department of **Military Digital Convergence at Ajou University** (Department contracted with the ROKAF for IT personnel).
 
 🎓 Education
 * **B.S. in Military Digital Convergence**, Ajou University | Mar 2021 – Feb 2027 (Expected)
@@ -12,13 +12,11 @@
 💼 Experience
 * **Republic of Korea Air Force (ROKAF)** | Feb 2025 – Nov 2026 (Expected)
   * *Radio Communication Systems Maintenance Crew* (무선통신체계정비병)
-  * *Peer Counselor* | Sep 2025 – Feb 2026
 * **Undergraduate Research Intern | iKnowLab (Ajou University)** | Jan 2024 – Jun 2024
-  * Conducted reviews of leading research papers in AI, Machine Learning, and Data Mining.
   * Selected as the official Ajou University student representative for the 2024 SW Centered University Digital Competition.
 * **Co-Founder & Vice President | Afterscene (Ajou University Film Club)** | Aug 2023 – Dec 2024
-  * Co-founded and scaled the university film club into a major student organization of **300+ members** through strategic planning and budget management.
-  * Led a cross-disciplinary team for a **Capstone Design Project**, managing the requirements and workflows for developing a dedicated movie archiving and streaming application.
+  * Scaled the university club to **300+ members** through strategic planning.
+  * Led a **cross-functional team** for a Capstone Design movie archiving app project.
 
 🏆 Awards & Competitions
 * **The 8th ROKAF Creativity & Innovation Hackathon** | Apr 2026 – Present
@@ -32,9 +30,8 @@
   * Completed intensive AI/ML training curriculum (Phase 1–2) and advanced to the final round (Phase 3 Offline Hackathon) focused on resort F&B demand forecasting.
 * **SW Centered University Digital Competition (SW & Generative AI Section)** | Jul 2024
   * *Official University Representative* | **Selected to represent Ajou University**
-  * Advanced to the national competition by developing and pitching a software service model; conceptualized an AI-driven platform that integrates software architecture with generative AI technologies.
 * **Ajou Generative AI Service Idea Competition** | 2024
-  * *First Prize* | **Awarded 1st Place among participating university teams**
+  * *First Prize*
   * Proposed **"Fairytale Maker,"** an innovative generative AI-driven service architecture that enables anyone to become a children's book author.
 
 📜 Certifications
@@ -45,7 +42,6 @@
 
 📘 Language Proficiency
 * OPIc: Advanced Low (IH) | ACTFL | Jun 2025
-* TOEIC: 855 | ETS | Dec 2024
 * *Language Level:* Fluent in English
 
 ## 🛠️ Technical Skills
