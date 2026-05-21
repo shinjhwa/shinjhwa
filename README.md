@@ -1,7 +1,6 @@
 ### Profile
 🧑‍💻 Who Am I
-* I am an **ICT Convergence Engineer** with a solid technical foundation across overall ICT and software engineering.
-* Possess comprehensive domain expertise spanning **Artificial Intelligence, Cybersecurity, and Defense Weapon Systems & Military Domain Knowledge**.
+* I am an ICT Convergence Engineer specializing in Artificial Intelligence, Cybersecurity, and Defense Systems.
 * Currently serving in the **Republic of Korea Air Force (ROKAF)** at the 3rd Air and Missile Defense Brigade.
 * Graduated from the Department of **Military Digital Convergence at Ajou University** (Department contracted with the ROKAF for IT personnel).
 
@@ -19,9 +18,6 @@
   * Led a **cross-functional team** for a Capstone Design movie archiving app project.
 
 🏆 Awards & Competitions
-* **The 8th ROKAF Creativity & Innovation Hackathon** | Apr 2026 – Present
-  * *Passed Preliminary Evaluation (AI Track)* | **Selected in the Top 14 out of 94 teams (Top 15%)**
-  * currently optimizing algorithms for the upcoming online/offline trials.
 * **ASCIIthon (Metropolitan University Union Hackathon)** | Jan 2026
   * *Bronze Prize (4th Place / Out of 24 Teams)*
   * Developed a location-based customized hospital recommendation service for foreign students. Engineered the asynchronous backend server using **FastAPI** and successfully integrated **KakaoMap API** and **GPT API**.
