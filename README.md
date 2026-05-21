@@ -34,16 +34,6 @@
   * *First Prize*
   * Proposed **"Fairytale Maker,"** an innovative generative AI-driven service architecture that enables anyone to become a children's book author.
 
-📜 Certifications
-* Engineer Information Processing (정보처리기사) | HRD Korea | Sep 2024
-* SQL Developer (SQLD) | Korea Data Agency | Dec 2024
-* Advanced Data Analytics Semi-Professional (ADsP) | Korea Data Agency | May 2025
-* Linux Master (2nd Level) (리눅스마스터 2급) | KAIT | Jun 2026
-
-📘 Language Proficiency
-* OPIc: Advanced Low (IH) | ACTFL | Jun 2025
-* *Language Level:* Fluent in English
-
 <br/>
 
 ## 🧠 Problem Solving
