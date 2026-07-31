@@ -6,7 +6,6 @@
 
 🎓 Education
 * **B.S. in Military Digital Convergence**, Ajou University | Mar 2021 – Feb 2027 (Expected)
-  * *Micro-Degree:* Artificial Intelligence
 
 💼 Experience
 * **Republic of Korea Air Force (ROKAF)** | Feb 2025 – Nov 2026 (Expected)
