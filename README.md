@@ -18,6 +18,8 @@
   * Led a **cross-functional team** for a Capstone Design movie archiving app project.
 
 🏆 Awards & Competitions
+* **8th Air Force Hackathon AI Competition (Republic of Korea Air Force)** | Jul 2026
+  * Grand Prize – Chief of Staff Award (1st Place / Overall Winner)
 * **ASCIIthon (Metropolitan University Union Hackathon)** | Jan 2026
   * *Bronze Prize (4th Place / Out of 24 Teams)*
   * Developed a location-based customized hospital recommendation service for foreign students. Engineered the asynchronous backend server using **FastAPI** and successfully integrated **KakaoMap API** and **GPT API**.
