@@ -32,6 +32,3 @@
   * Proposed **"Fairytale Maker,"** an innovative generative AI-driven service architecture that enables anyone to become a children's book author.
 
 <br/>
-
-## 🧠 Problem Solving
-* **LeetCode:** [shinjhwa](https://leetcode.com/u/shinjhwa/)
